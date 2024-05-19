@@ -9,3 +9,4 @@ This project will take steps:
    b) Transforms it into RDF triples that conform to the common data model
 
 Developers should see the related Repo at https://github.com/standard-personal-data-model/Mapping-and-Transformation for examples and prior work.
+Developers may use any common model they choose or create a new one.  One candidate is https://github.com/standard-personal-data-model/PDM-Glossary, which already includes the term EmailAddress at 
