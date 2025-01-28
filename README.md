@@ -10,6 +10,6 @@ Project steps:
 
 Developers should see the related Repo at https://github.com/standard-personal-data-model/Mapping-and-Transformation for examples of mapping files, transformation scripts, etc, and other prior work, but be aware this was draft work and likely has errors and gaps. 
 
-Developers may use any common model they choose or create a new one.  One candidate is https://github.com/standard-personal-data-model/PDM-Glossary, which already includes the term 'EmailAddress.'  See PDM-Glossary v0-3, tab 'From Person Ontology' cell A59.  
+Developers may use any common model they choose or create a new one.  One candidate is https://github.com/standard-personal-data-model/PDM-Glossary, which already includes the term 'EmailAddress.'  See PDM-Glossary v0-3, tab 'From Person Ontology' cell A61.  
 
 Please email me at james.schoening@ieee.org for help in working or understanding this effort.  Thanks much!
